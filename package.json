@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/evert0n/koa-cors",
   "devDependencies": {
-    "koa": "^0.18.0",
     "chai": "^2.0.0",
+    "koa": "^2.0.0-alpha.2",
     "mocha": "^2.1.0",
     "superagent": "^0.21.0"
   }
